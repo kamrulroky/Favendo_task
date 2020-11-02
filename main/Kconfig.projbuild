@@ -1,0 +1,11 @@
+menu "WIFI CONNECT"
+
+config WIFI_SSID
+    string "SSID"
+    default "MadTitan"
+
+config WIFI_PASSWORD
+    string "PASSWORD"
+    default "CSE04806354"  
+
+endmenu
